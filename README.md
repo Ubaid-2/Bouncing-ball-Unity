@@ -1,6 +1,6 @@
 ﻿# Assignment: Bounce Ball & 3D Environment
-**Student ID:** 62506  
-**Name:** M. Usman Ali  
+**Student ID:** 66784
+**Name:** Muhammad Ubaid ur Rehman  
 **Class / Section:** CS-51  
 
 ---
